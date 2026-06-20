@@ -1,6 +1,10 @@
 langchain
 langchain-community
 langchain-chroma
+langchain_huggingface
+langchain_text_splitters
+langchain_groq
+langchain_core
 chromadb
 sentence-transformers
 pypdf
@@ -12,4 +16,5 @@ ragas
 groq
 streamlit
 torch
+dotenv
 torchvision
