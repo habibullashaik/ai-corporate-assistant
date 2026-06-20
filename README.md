@@ -89,6 +89,6 @@ This is an active, evolving project. Planned next steps:
 
 ## 📬 Connect
 
-Built and maintained by **Habibulla Shaik**, as part of a public learning journey toward becoming a stronger AI Engineer — sharing daily progress on [LinkedIn].
+Built and maintained by **Habibulla Shaik**, as part of a public learning journey toward becoming a stronger AI Engineer — sharing daily progress on [linkedin.com/in/habibulla-shaik-4a365b290].
 
 If you find this useful, a ⭐ on the repo is appreciated!
