@@ -11,3 +11,5 @@ langfuse
 ragas
 groq
 streamlit
+torch
+torchvision
