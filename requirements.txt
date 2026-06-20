@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-chroma
+chromadb
+sentence-transformers
+pypdf
+fastapi
+uvicorn
+python-dotenv
+langfuse
+ragas
+groq
+streamlit
